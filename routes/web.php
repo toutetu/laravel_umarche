@@ -12,6 +12,16 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+/*
+|--------------------------------------------------------------------------
+| Webルート
+|--------------------------------------------------------------------------
+|
+| ここでは、アプリケーションのWebルートを登録できます。
+| これらのルートは、"web" ミドルウェアグループを含むグループ内で
+| RouteServiceProviderによって読み込まれます。さあ、素晴らしいものを作りましょう！
+|
+*/
 
 Route::get('/', function () {
     return view('welcome');
