@@ -1,7 +1,7 @@
 {
     "A new verification link has been sent to the email address you provided during registration.": "入力いただいたメールアドレスに新しい確認メールを送信しました。",
     "A new verification link has been sent to your email address.": "確認メールを送信しました。",
-    "Already registered?": "登録済みの方はこちら",
+    "Already registered?": "登録済みの方はこちら",  
     "Are you sure you want to delete your account?": "アカウントを削除しますか？",
     "Cancel": "キャンセル",
     "Click here to re-send the verification email.": "確認メールの再送はこちら",
@@ -35,5 +35,7 @@
     "Update Password": "パスワード更新",
     "Update your account's profile information and email address.": "プロフィール情報とメールアドレスを更新する。",
     "You're logged in!": "ログイン成功",
-    "Your email address is unverified.": "メールアドレスが未認証です。"
+    "Your email address is unverified.": "メールアドレスが未認証です。",
+
+    "Whoops! Something went wrong.":"おっと、サーバーで何か問題が発生しました。"
 }
