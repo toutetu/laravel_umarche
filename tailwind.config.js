@@ -8,6 +8,10 @@ module.exports = {
         './resources/views/**/*.blade.php',
     ],
 
+    //追記
+    purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+    darkMode: false, // 'media' or 'class'
+    //追記終了
     theme: {
         extend: {
             fontFamily: {

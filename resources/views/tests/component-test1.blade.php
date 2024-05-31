@@ -1,4 +1,7 @@
 <x-tests.app>
     <x-slot name="header">ヘッダー</x-slot>
-コンポーネントテスト１です。
+     
+     コンポーネントテスト１です。
+
+<x-tests.card title="タイトル" content="本文"></x-tests.card>
 </x-tests.app>
